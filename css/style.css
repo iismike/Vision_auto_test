@@ -1,0 +1,25 @@
+/*-----------Global----------------*/
+@import "normalize.css";
+header {
+	
+}
+
+
+body {
+	max-width: 960px;
+	margin: 0px auto;
+	font-family: helvetica, sans-serif;
+}
+
+
+a:visited {
+	color: #000;
+}
+
+a:hover {
+	color: #000;
+}
+
+a:active {
+	color: #000;
+}
