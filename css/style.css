@@ -51,3 +51,20 @@ nav ul li a:hover {
 nav ul li a:active {
 	
 }
+
+/*-----------Home----------------*/
+#cta {
+	float: right;
+	width: 60%;
+}
+
+#cta a img {
+	border-radius: 10px;
+}
+#news {
+	width: 30%;
+	border-right: solid;
+	border-right-color: #999;
+	margin: 0px;
+	padding: 0px;
+}
